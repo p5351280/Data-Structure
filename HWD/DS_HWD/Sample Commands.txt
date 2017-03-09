@@ -1,0 +1,12 @@
+select * from Contacts.csv
+SELECT * from Contacts.csv order by id DESC -1
+select * from Contacts.csv order by Age DESC -1, FirstName -1
+
+
+
+
+
+select Age, FirstName from order by Age -1, FirstName -2
+select Age, FirstName from /Users/Shuo-En/Downloads/DS_HWD/Contacts.csv /Users/Shuo-En/Downloads/DS_HWD/Contacts.csv order by Age -1, FirstName -2
+select Age, FirstName from /Users/Shuo-En/Downloads/DS_HWD/Contacts.csv order  Age by -1, FirstName -2
+select Age, FirstName from /Users/Shuo-En/Downloads/DS_HWD/Contacts.csv order by Age -3, FirstName -2
